@@ -12,5 +12,8 @@ www.chokepoint.net
 
 ## Installation
 
+***Required***
+- Python 2
+
 *    mkvirtualenv flaskgur
 *    pip install . 
